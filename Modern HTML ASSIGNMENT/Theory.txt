@@ -1,0 +1,90 @@
+                                          MORDERN HTML ASSIGNMENT 
+
+  TASK 1 : List out the feautres of HTML 5 .
+  SOLUTION : Features of HTML 5
+   1. Improved Multimedia support -
+    HTML5 allows for integrating multimedia elements such as <audio> and <video> directly into web pages without
+     the need for plugins like Flash .
+   2. Canvas element -
+    HTML5 introduced the <canvas> element, allowing dynamic, interactive graphics to be
+     created and manipulated within a web page .
+  3.Geolocation API -
+   It is an API for obtaining the user's location, enabling web applications to offer location-based
+     services.                                        
+  4. Local Storage -
+   HTML5 introduced the local Storage API, which allows for the storage of data on the user's
+device, improving performance and reducing the need for round-trips to the server .
+  5. New Structural Elements -
+ HTML5 introduced new semantic elements such as <header>, <footer>, <nav>,
+and <article>, etc. that make it easier to structure and organize content on a web page .
+  6. Form Improvements - 
+HTML5 introduced several improvements to forms, including new input types like
+date, time, and color, as well as new attributes such as required and autofocus . 
+  7.Accessibility improvements -
+ HTML5 provides better support for accessibility, including the ability to provide
+alternative text for images and improved support for screen readers.
+
+
+TASK 2 : What are HTML Entities? List out 5 commonly used HTML entities.
+SOLUTION : The reserved character used in HTML document are called HTML ENTITIES .
+They provide wide range of character, allowing you to add icon , shape and mathematical operators.
+
+COMMONLY USED HTML 5 ENTITES 
+ 1.  &reg;     (&#174;)
+ used to represent registered trademark symbol Ⓡ .
+
+ 2.  &copy;    (&#169;)
+ used to represent copyright symbol  © .
+
+ 3.  &amp;     (&#38;)
+ used to represent ampersand symbol & .
+
+ 4. &quot;     (&#34;)
+ used to represent double quotation mark " .
+
+ 5.  &apos;     (&#39;)
+ used to represent single quotation mark or apostrophe  '  .
+
+
+
+ TASK 3 :  Define accessibility in the context of web development? Discuss why it's essential to create accessible
+websites and how it benefits different user groups .
+SOLUTION :  Accessibility IN THE CONTEXT OF WEB DEVELOPMENT    -   
+ The Web should be designed to work for all people, whatever their hardware, software, language, location, 
+ or ability. When the Web meets this requirement . 
+It is accessible to people with a diverse range of abilities like hearing, movement, sight, and cognitive abilities.
+
+      IMPORTANCE OF ACCESSIBLE WEBSITE 
+     1. Expand your audience .
+     2.  Provide a better experience for all users .
+     3.  Cost less to maintain .
+     4.  Ensure that people with disabilities can participate fully in society .
+     5. Improve the usability of the site for all users .
+     6. Impact a company's reputation and brand image .
+     7. Potentially improve your SEO ranking  .
+     8. Ensure access for individuals with diverse abilities, learning styles, and devices .
+
+       BENEFITS FOR USER GROUP 
+    1. Accessibility provides screen reader support and text alternatives, aiding blind and visually impaired users.
+    2.  Captions and transcripts benefit those with hearing impairments by making audio content understandable.
+    3.  Keyboard navigation and easy-to-click elements assist users with motor limitations.
+    4. Accessible design simplifies content and layout, aiding individuals with cognitive challenges.
+    5. Accessible websites accommodate age-related limitations, ensuring usability for elderly users.
+    6. Accessible design improves mobile experiences through simplified and responsive layouts .
+
+
+    TASK 4 : List any 3 ways which help us in improving the accessibility of HTML .
+    SOLUTION : Ways to improve accessibility of HTML 
+    1. USE OF SEMANTIC HTML 
+    using correct HTML elements for their correct purpose as much as possible.
+     Semantic elements are elements with a meaning; if you need a button, use the <button> element .
+    2.  USE OF HEADING
+    Search engines use the headings to index the structure and content of your web pages.
+     Users skim your pages by its headings.
+     It is important to use headings to show the document structure and the relationships between different sections.
+     Screen readers also use headings as a navigational tool. 
+     3. ALTERNATIVE TEXT   - alt
+      attribute provides an alternate text for an image, if the user for some reason cannot view it
+       (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
+       
+
